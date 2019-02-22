@@ -14,6 +14,6 @@
 /d/:name/mod.ts v=:version https://raw.githubusercontent.com/albizures/:name/:version/mod.ts
 
 # to master
-/d/:name/mod.ts https://raw.githubusercontent.com/albizures/:mod/master/mod.ts
+/d/:name/mod.ts https://raw.githubusercontent.com/albizures/:name/master/mod.ts
 
 /* http://albizures.com
