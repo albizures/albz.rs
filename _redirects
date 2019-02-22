@@ -5,7 +5,7 @@
 /d/:user/:name/mod.ts v=:version https://raw.githubusercontent.com/:user/:name/:version/mod.ts
 
 # with user to master
-/d/:user/:name/mod.ts https://raw.githubusercontent.com/:user/:name/mod.ts
+/d/:user/:name/mod.ts https://raw.githubusercontent.com/:user/:name/master/mod.ts
 
 # with version
 /d/:name/:version/mod.ts https://raw.githubusercontent.com/albizures/:name/:version/mod.ts
