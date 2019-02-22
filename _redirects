@@ -1,1 +1,4 @@
+/d/:mod/mod.ts version=:version https://raw.githubusercontent.com/albizures/:mod/:version/mod.ts
+/d/:mod/mod.ts https://raw.githubusercontent.com/albizures/:mod/master/mod.ts
+
 /* http://albizures.com
