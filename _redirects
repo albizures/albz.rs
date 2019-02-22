@@ -1,11 +1,11 @@
 # with user and version
-/d/:user/:name/:version/mod.ts https://raw.githubusercontent.com/:user/:name/:version/mod.ts
+/d3/:user/:name/:version/mod.ts https://raw.githubusercontent.com/:user/:name/:version/mod.ts
 
 # with user and version as query param
-/d/:user/:name/mod.ts v=:version https://raw.githubusercontent.com/:user/:name/:version/mod.ts
+/d3/:user/:name/mod.ts v=:version https://raw.githubusercontent.com/:user/:name/:version/mod.ts
 
 # with user to master
-/d/:user/:name/mod.ts https://raw.githubusercontent.com/:user/:name/master/mod.ts
+/d3/:user/:name/mod.ts https://raw.githubusercontent.com/:user/:name/master/mod.ts
 
 # with version
 /d/:name/:version/mod.ts https://raw.githubusercontent.com/albizures/:name/:version/mod.ts
