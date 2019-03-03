@@ -16,4 +16,6 @@
 # to master
 /d/:name/mod.ts https://raw.githubusercontent.com/albizures/:name/master/mod.ts
 
+/gh https://github.com/albizures
+
 /* http://albizures.com
